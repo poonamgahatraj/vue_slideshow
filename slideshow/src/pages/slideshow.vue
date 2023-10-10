@@ -5,6 +5,9 @@
   <button @click="prev">Previous</button>
   <button @click="next">Next</button>
 </div>
+
+
+
   </div>
  
 
